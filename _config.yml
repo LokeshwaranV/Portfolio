@@ -1,10 +1,19 @@
-title: LOGESHWARAN V
-logo: /assets/img/DSC_6781 a.jpg
-description: Passionate developer, committed to crafting clean code and building innovative solutions. 
-Constantly learning and adapting in the ever-evolving world of technology.Lover of open-source and collaboration. 
-Let's create something awesome together! 🚀 #GitMaster
+title: <p align="center"> LOGESHWARAN V </p>
+logo: /assets/img/DSC_6781 a
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://https://www.linkedin.com/in/lokeshwaran-vishwanthan-427428130?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a> |
+  <a href="https:/github.com/LokeshwaranV">GitHub</a>
+  
+  <br>   
+  "Passionate developer, committed to crafting clean code and building innovative solutions. 
+  Constantly learning and adapting in the ever-evolving world of technology.
+  Let's create something awesome together! 🚀 #GitCommit😉"
+  <br>
+  </p>
 
 
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-minimal
