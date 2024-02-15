@@ -6,7 +6,7 @@ Constantly learning and adapting in the ever-evolving world of technology.<br> #
 
 ## Understanding Data Structures and Algorithms in Python using departmental store data set
 ## Description
-The Departmental Store Automation project is a Python-based solution designed to streamline operations in departmental stores. As the Tech Lead for a software company, I developed this project to automate tasks such as billing, inventory management, and sales analysis for departmental stores like Walmart and Amazon Fresh.
+The Departmental Store Automation project is a Python-based solution designed to streamline operations in departmental stores. As a part of this assingment, I developed this project to automate tasks such as billing, inventory management, and sales analysis for departmental stores like Walmart and Amazon Fresh.
 <br>
 The project includes features like: <br>
 
