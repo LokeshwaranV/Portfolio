@@ -1,18 +1,6 @@
----
-title: <p align="center"> "Logeshwaran V" </p>
-logo: "/assets/img/DSC_6781 a.jpg"
-
-description:
-  <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/lokeshwaran-vishwanthan-427428130/">LinkedIn</a> |
-  
-  <br>   
-  Passionate developer, committed to crafting clean code and building innovative solutions.
-  #GitCommit😉
-  <br>
-  </p>
-
-
-
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
