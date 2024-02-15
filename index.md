@@ -5,7 +5,7 @@ Constantly learning and adapting in the ever-evolving world of technology.<br> #
 # My Projects
 
 ## Understanding Data Structures and Algorithms in Python using departmental store data set
-## Description
+### Description
 The Departmental Store Automation project is a Python-based solution designed to streamline operations in departmental stores. As a part of this assingment, I developed this project to automate tasks such as billing, inventory management, and sales analysis for departmental stores like Walmart and Amazon Fresh.
 <br>
 The project includes features like: <br>
@@ -18,4 +18,25 @@ Sales insights: Identify top-selling items and apply discounts based on sales da
 [Link to Repo](https://github.com/LokeshwaranV/Understanding-Data-Structures-and-Algorithms-in-Python-using-departmental-store-data-set)
 
 <center><img src="assets/img/images.jpg"/></center> 
+
+<br>
+<br>
+<br>
+<br>
+
+## Bike sharing assignment
+### Description
+In this project, I tackled a complex data analysis assignment for Yulu, a popular bike-sharing startup based in India. The task involved providing data-backed insights to help the company scale up its user base and optimize internal operations.
+
+Features:
+SQL and Tableau Integration: Leveraged SQL for data manipulation and Tableau for visualizations.
+Geographical Plotting: Mapped the locations of bike stations for better understanding.
+Demand Prediction: Used data to predict demand and recommend station closures.
+Operations Optimization: Provided strategies for optimizing bike availability and station operations.
+
+
+[Link to Repo](https://github.com/LokeshwaranV/Bike-Sharing-Assignmnet)
+
+<center><img src="assets/img/bike sharing image.jpg"/></center> 
+
 
