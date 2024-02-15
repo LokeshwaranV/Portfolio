@@ -15,7 +15,7 @@ Automated billing system: Calculate total costs for customer transactions, inclu
 Inventory management: Track the frequency of items purchased and manage stock levels. <br>
 Sales insights: Identify top-selling items and apply discounts based on sales data. <br>
 
-[Link to Repo]([./another-page.html](https://github.com/LokeshwaranV/Understanding-Data-Structures-and-Algorithms-in-Python-using-departmental-store-data-set)https://github.com/LokeshwaranV/Understanding-Data-Structures-and-Algorithms-in-Python-using-departmental-store-data-set).
+[Link to Repo](https://github.com/LokeshwaranV/Understanding-Data-Structures-and-Algorithms-in-Python-using-departmental-store-data-set)
 
 <center><img src="assets/img/images.jpg"/></center> 
 
