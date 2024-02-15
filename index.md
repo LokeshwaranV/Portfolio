@@ -1,3 +1,7 @@
+# Summary
+Passionate developer, committed to crafting clean code and building innovative solutions.
+Constantly learning and adapting in the ever-evolving world of technology.<br> #GitCommit😉
+
 # My Projects
 
 ## Understanding Data Structures and Algorithms in Python using departmental store data set
