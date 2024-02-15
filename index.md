@@ -13,5 +13,5 @@ Sales insights: Identify top-selling items and apply discounts based on sales da
 
 [Link to Repo]([./another-page.html](https://github.com/LokeshwaranV/Understanding-Data-Structures-and-Algorithms-in-Python-using-departmental-store-data-set)https://github.com/LokeshwaranV/Understanding-Data-Structures-and-Algorithms-in-Python-using-departmental-store-data-set).
 
-##<center><img src="store.jpg"/></center> 
+##<center><img src="assets/img/images.jpg"/></center> 
 
