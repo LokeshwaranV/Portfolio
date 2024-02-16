@@ -4,10 +4,36 @@ Constantly learning and adapting in the ever-evolving world of technology.<br> #
 
 # My Projects
 
+## Uber Supply - Demand Gap Analysis
+### Description
+This project simulates real-world challenges faced by Uber, focusing on driver cancellations and car unavailability. Through data analysis and visualization, it aims to identify root causes and recommend solutions to improve operational efficiency. Key features include data cleaning, visualizing problem areas, analyzing the supply-demand gap, and providing actionable recommendations. Tools used include Python, Jupyter Notebook, and Tableau.
+<br>
+
+<center><img src="assets/img/uber_image.png"/></center> 
+
+The project includes features like: <br>
+
+Problem Identification: Utilizes EDA and visualization to identify issues like driver cancellations and car unavailability.
+Data Cleaning: Addresses data quality issues and prepares the dataset for analysis.
+Visualization: Uses plots to highlight problematic request types, time slots, and supply-demand gaps.
+Recommendations: Provides actionable insights to improve operational efficiency.
+
+[Link to Repo](https://github.com/LokeshwaranV/Uber_EDA)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## Understanding Data Structures and Algorithms in Python using departmental store data set
 ### Description
 The Departmental Store Automation project is a Python-based solution designed to streamline operations in departmental stores. As a part of this assingment, I developed this project to automate tasks such as billing, inventory management, and sales analysis for departmental stores like Walmart and Amazon Fresh.
 <br>
+
+<center><img src="assets/img/images.jpg"/></center> 
+
 The project includes features like: <br>
 
 Dynamic item management: Add or remove items from the store directory. <br>
@@ -17,7 +43,7 @@ Sales insights: Identify top-selling items and apply discounts based on sales da
 
 [Link to Repo](https://github.com/LokeshwaranV/Understanding-Data-Structures-and-Algorithms-in-Python-using-departmental-store-data-set)
 
-<center><img src="assets/img/images.jpg"/></center> 
+
 
 <br>
 <br>
@@ -28,6 +54,8 @@ Sales insights: Identify top-selling items and apply discounts based on sales da
 ### Description
 In this project, I tackled a complex data analysis assignment for Yulu, a popular bike-sharing startup based in India. The task involved providing data-backed insights to help the company scale up its user base and optimize internal operations.
 
+<center><img src="assets/img/bike sharing image.jpg"/></center> 
+
 Features:
 SQL and Tableau Integration: Leveraged SQL for data manipulation and Tableau for visualizations.
 Geographical Plotting: Mapped the locations of bike stations for better understanding.
@@ -37,6 +65,6 @@ Operations Optimization: Provided strategies for optimizing bike availability an
 
 [Link to Repo](https://github.com/LokeshwaranV/Bike-Sharing-Assignmnet)
 
-<center><img src="assets/img/bike sharing image.jpg"/></center> 
+
 
 
