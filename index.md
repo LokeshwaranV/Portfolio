@@ -4,6 +4,30 @@ Constantly learning and adapting in the ever-evolving world of technology.<br> #
 
 # My Projects
 
+## Recipe Recommendation Engine
+### Description
+This project aims to build a recommendation engine for a recipe website, enhancing user engagement by providing personalized recipe recommendations. By leveraging machine learning algorithms like ALS and K Nearest Neighbors (KNN), the system will analyze user interactions with recipes to predict and suggest new recipes that users are likely to enjoy.
+<br>
+
+<center><img src="assets/img/recommender system.jpg" alt="image" width="600" ></center> 
+
+The project includes features like: <br>
+
+Recommending recipes based on user preferences and past interactions.
+Sub-sampling data to ensure real-time recommendation generation.
+Using Spark platform for efficient model building and recommendation processing.
+Optional implementation of KNN for hybrid recommender system.
+
+
+[Link to Repo](https://github.com/LokeshwaranV/recommender-system)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## Click-Through Rate (CTR) Prediction for Online Advertising
 ### Description
 This project focuses on predicting whether a user will click on an online ad, crucial for marketing decisions. It involves data preprocessing, model selection, evaluation, and risk assessment.
