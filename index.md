@@ -26,6 +26,30 @@ Techniques: Includes missing value treatment, categorical variable encoding, mod
 <br>
 <br>
 
+## Parking Tickets Analysis_Using_Hive
+### Description
+This project aims to analyze parking ticket data from New York City to gain insights into parking violations. By applying Hive, a data warehousing tool, to a real-life dataset, we aim to understand the frequency of parking violations, the most common violation codes, and their occurrence times. Additionally, we will explore seasonality in parking violations to identify trends across different seasons. The project utilizes Apache Hive's functionality to process and analyze large datasets efficiently, providing valuable insights for urban planning and traffic management.
+<br>
+
+<center><img src="assets/img/parking_ticket.jpg" alt="image" width="600" ></center> 
+
+The project includes features like: <br>
+
+Analyze parking ticket data from NYC Open Data portal
+Identify total number of tickets issued and states to which cars belong
+Determine frequency of parking violations across different times of the day
+Find the most common violation codes and their corresponding times of day
+Analyze seasonality in parking violations across different seasons
+
+[Link to Repo](https://github.com/LokeshwaranV/Parking-Tickets-Analysis_Using_Hive)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## Uber Supply - Demand Gap Analysis
 ### Description
 This project simulates real-world challenges faced by Uber, focusing on driver cancellations and car unavailability. Through data analysis and visualization, it aims to identify root causes and recommend solutions to improve operational efficiency. Key features include data cleaning, visualizing problem areas, analyzing the supply-demand gap, and providing actionable recommendations. Tools used include Python, Jupyter Notebook, and Tableau.
