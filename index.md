@@ -4,6 +4,30 @@ Constantly learning and adapting in the ever-evolving world of technology.<br> #
 
 # My Projects
 
+## Finance and Risk Analytics
+### Description
+This project involves analyzing a portfolio of stocks for two investors, Mr. Patrick Jyenger and Mr. Peter Jyenger, to meet their financial goals. The dataset includes 24 stocks from leading companies listed on the NYSE, spanning from October 1, 2010, to September 30, 2020.
+<br>
+
+<center><img src="assets/img/finance.jpg" alt="image" width="600" ></center> 
+
+The project includes features like: <br>
+
+Data Loading: Merging the dataset into a single dataframe with required columns.
+Data Exploration: Creating interactive visualization dashboards and evaluating performance metrics to summarize stock performance.
+Stock Analysis and Portfolio Management: Using investor information to create a profile and selecting a portfolio of stocks that have the potential to meet the financial goals of both investors.
+Active Investment Strategy: Replicating past gains/returns over the future to predict the value of selected stocks and checking if the portfolio has the potential to fulfill the financial goals set by the investor.
+
+
+[Link to Repo](https://github.com/LokeshwaranV/Finance-and-Risk-Analytics)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## Recipe Recommendation Engine
 ### Description
 This project aims to build a recommendation engine for a recipe website, enhancing user engagement by providing personalized recipe recommendations. By leveraging machine learning algorithms like ALS and K Nearest Neighbors (KNN), the system will analyze user interactions with recipes to predict and suggest new recipes that users are likely to enjoy.
