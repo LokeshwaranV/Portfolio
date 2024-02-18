@@ -4,6 +4,32 @@ Constantly learning and adapting in the ever-evolving world of technology.<br> #
 
 # My Projects
 
+## Melanoma Detection using Convolutional Neural Networks
+### Description
+This project focuses on building a Convolutional Neural Network (CNN) to detect melanoma, a deadly form of skin cancer, from skin images. Melanoma accounts for a significant portion of skin cancer deaths, highlighting the importance of early detection. The dataset consists of images of various skin diseases, including melanoma, obtained from the International Skin Imaging Collaboration (ISIC).
+<br>
+
+<center><img src="https://www.fmai-hub.com/wp-content/uploads/2023/10/skin-cancer.png" alt="image" width="600" ></center> 
+
+The project includes features like: <br>
+
+Custom CNN Model: The project uses a custom CNN model without using any pre-trained models or transfer learning.
+Data Preprocessing: The images are resized to 180x180 pixels and normalized to rescale pixel values between 0 and 1.
+Model Training: The model is trained for around 20 epochs on the original dataset and augmented dataset to improve performance.
+Data Augmentation: Augmentation techniques are applied to resolve overfitting and underfitting issues.
+Class Imbalance Handling: The project addresses class imbalances in the dataset using the Augmentor library.
+Model Evaluation: The model's performance is evaluated after each training phase to analyze for overfitting, underfitting, and resolution of class imbalances.
+
+
+[Link to Repo](https://github.com/LokeshwaranV/Melanoma-Detection-using-Convolutional-Neural-Networks)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## Finance and Risk Analytics
 ### Description
 This project involves analyzing a portfolio of stocks for two investors, Mr. Patrick Jyenger and Mr. Peter Jyenger, to meet their financial goals. The dataset includes 24 stocks from leading companies listed on the NYSE, spanning from October 1, 2010, to September 30, 2020.
