@@ -30,6 +30,33 @@ Model Evaluation: The model's performance is evaluated after each training phase
 <br>
 <br>
 
+## NER model in health tech
+### Description
+The Health Tech NER project aims to develop a custom Named Entity Recognition (NER) model to extract disease names and their corresponding treatments from medical data. The project focuses on improving the efficiency of medical professionals by providing them with a tool to quickly identify and manage diseases and treatments in patient records.
+<br>
+
+<center><img src="assets/img/NER_image.jpg" alt="image" width="600" ></center> 
+
+The project includes features like: <br>
+
+Custom NER Model: Utilizes a tailored NER model to accurately identify disease names and treatments from medical text.
+Data Preprocessing: Converts tokenized data into coherent sentences for better analysis.
+Concept Identification: Uses PoS tagging to identify common medical concepts, aiding in understanding and categorizing medical terms.
+CRF Model Building: Constructs a Conditional Random Fields (CRF) model using sklearn for the NER application.
+Performance Evaluation: Evaluates the model's performance using F1 score, ensuring accuracy and reliability.
+User Interface: Provides a user-friendly interface for medical professionals to interact with the NER model, facilitating easy access to disease and treatment information.
+Data-Driven Insights: Enables data-driven insights into disease prevalence, treatment effectiveness, and healthcare trends based on extracted data.
+Enhanced Patient Care: Improves patient care by assisting doctors in making informed decisions about treatments and medical interventions.
+
+[Link to Repo](https://github.com/LokeshwaranV/NER-model-in-health-tech)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## Finance and Risk Analytics
 ### Description
 This project involves analyzing a portfolio of stocks for two investors, Mr. Patrick Jyenger and Mr. Peter Jyenger, to meet their financial goals. The dataset includes 24 stocks from leading companies listed on the NYSE, spanning from October 1, 2010, to September 30, 2020.
