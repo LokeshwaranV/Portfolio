@@ -30,6 +30,31 @@ Model Evaluation: The model's performance is evaluated after each training phase
 <br>
 <br>
 
+## Neural Machine Translation (NMT) Model Building
+### Description
+The Neural Machine Translation (NMT) project focuses on building an attention-based sequence-to-sequence model to translate Spanish sentences into English. This project is motivated by the need for a US-based life insurance company to communicate effectively with the Spanish-speaking community in Mexico. By developing an NMT model, the company aims to provide seamless communication and coverage to this community.
+<br>
+
+<center><img src="assets/img/NMT_image.jpg" alt="image" width="600" ></center> 
+
+The project includes features like: <br>
+
+Attention Mechanism: The model utilizes attention mechanisms to understand the context of Spanish sentences and generate clear and coherent English translations.
+Data Cleaning: Special attention is given to data cleaning tasks specific to the Spanish language, including handling special characters, to ensure accurate translation.
+Encoder-Decoder Architecture: The model is based on the encoder-decoder architecture, where the encoder processes the input sentence in Spanish and the decoder generates the translated sentence in English.
+Dataset: The project uses a paired corpus of English-Spanish data provided by Anki, ensuring a reliable dataset for training and evaluation.
+Practical Application: The NMT model developed in this project has practical applications beyond the insurance industry, such as helping local traders do business with English-speaking merchants.
+Educational Value: By working on this project, participants gain a deeper understanding of NMT models and attention mechanisms, enhancing their knowledge of natural language processing.
+
+[Link to Repo](https://github.com/LokeshwaranV/Neural-Machine-Translation-Model)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## NER model in health tech
 ### Description
 The Health Tech NER project aims to develop a custom Named Entity Recognition (NER) model to extract disease names and their corresponding treatments from medical data. The project focuses on improving the efficiency of medical professionals by providing them with a tool to quickly identify and manage diseases and treatments in patient records.
