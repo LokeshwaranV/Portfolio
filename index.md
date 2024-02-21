@@ -70,7 +70,7 @@ Data Privacy: Implementing measures to protect customer information, such as dat
 Anonymization Techniques: Applying data anonymization techniques to ensure privacy while allowing for meaningful analysis.
 Ethical Data Practices: Prioritizing data ethics to ensure responsible collection, storage, and use of customer data.
 
-[Link to Repo](https://github.com/LokeshwaranV/NER-model-in-health-tech)
+[Link to Repo](https://github.com/LokeshwaranV/Data-Science-Project-for-Online-Grocery-Delivery-Company)
 
 
 
