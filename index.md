@@ -55,6 +55,30 @@ Educational Value: By working on this project, participants gain a deeper unders
 <br>
 <br>
 
+## Data Science Project for Online Grocery Delivery Company
+### Description
+The project focuses on enhancing the data-driven strategies of an online grocery delivery company, "Everyday Deals," to increase sales, revenue, and customer engagement while reducing churn rate. It involves analyzing customer buying patterns and trends, building a customer churn model, and implementing data privacy and anonymization measures.
+<br>
+
+<center><img src="https://d3eeke16mv0lt7.cloudfront.net/sites/default/files/styles/article_hero_image__1_5x/public/field/image/encyrption-fph-vs-fpe.jpg?itok=y5bIJGNq" width="600" ></center> 
+
+The project includes features like: <br>
+
+Data Analysis: Understanding customer behavior through data analysis to improve product recommendations.
+Churn Prediction: Building a model to predict customer churn and identifying factors influencing it.
+Data Privacy: Implementing measures to protect customer information, such as data minimization and attribute masking.
+Anonymization Techniques: Applying data anonymization techniques to ensure privacy while allowing for meaningful analysis.
+Ethical Data Practices: Prioritizing data ethics to ensure responsible collection, storage, and use of customer data.
+
+[Link to Repo](https://github.com/LokeshwaranV/NER-model-in-health-tech)
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 ## NER model in health tech
 ### Description
 The Health Tech NER project aims to develop a custom Named Entity Recognition (NER) model to extract disease names and their corresponding treatments from medical data. The project focuses on improving the efficiency of medical professionals by providing them with a tool to quickly identify and manage diseases and treatments in patient records.
